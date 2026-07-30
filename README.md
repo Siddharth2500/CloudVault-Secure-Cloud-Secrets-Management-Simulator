@@ -9,7 +9,7 @@
 
 **CloudVault** is a **Python 3** tool designed to simulate a cloud-secrets management system. It tracks secrets, evaluates their age and rotation status, flags stale or overdue secrets, and generates audit reports. It’s built for cloud security engineers, DevSecOps teams, and anyone interested in secrets governance.
 
-----------------------
+------------------------
 
 ## 🛠 Tech & Languages
 
